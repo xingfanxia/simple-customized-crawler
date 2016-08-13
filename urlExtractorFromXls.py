@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Date    : 2016-08-11 18:28:44
 # @Author  : Xingfan Xia (xiax@carleton.edu)
-# @Link    : http://example.org
+# @Link    : http://xiax.tech
 # @Version : $1.0
 
 # import modules

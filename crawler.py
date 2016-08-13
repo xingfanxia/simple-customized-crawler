@@ -37,8 +37,9 @@ def feedtheURLs(url):
 	summary = strip_tags(summary)
 
 	with open("Crawler_Output.txt", "a") as my_file:
-		my_file.write(title.encode('utf8'))
-		my_file.write(summary.encode('utf8'))
+		my_file.write("标题:" + title.encode('utf8'))
+		my_file.write("\n链接:" + url)
+		my_file.write("文章内容:\n" +summary.encode('utf8'))
 
 	clean_lines = []
 	with open("Crawler_Output.txt", "r") as f:

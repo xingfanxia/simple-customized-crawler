@@ -1,14 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Date    : 2016-08-11 18:28:44
+# @Date    : 2016-08-14 02:49:44
 # @Author  : Xingfan Xia (xiax@carleton.edu)
 # @Link    : http://example.org
 # @Version : $1.0
-# 
+
+# Import Modules
 import requests,re
 from readability import Document
 from HTMLParser import HTMLParser
 
+# for stripping html tags
 class MLStripper(HTMLParser):
 	def __init__(self):
 		self.reset()
@@ -23,9 +25,7 @@ def strip_tags(text):
 	s.feed(text)
 	return s.get_data()
 
-# def removeSpace(text):
-# 	pattern = re.compile(r'\s+')
-# 	text = re.sub(pattern, '', text)
+# crawl data with the given url and save it to Crawler_Output.txt
 def feedtheURLs(url):
 	response = requests.get(url)
 	doc = Document(response.text)

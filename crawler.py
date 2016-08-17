@@ -6,7 +6,7 @@
 # @Version : $1.0
 
 # Import Modules
-import requests,re
+import requests,re, os
 from readability import Document
 from HTMLParser import HTMLParser
 
@@ -26,7 +26,7 @@ def strip_tags(text):
 	return s.get_data()
 
 # crawl data with the given url and save it to Crawler_Output.txt
-def feedtheURLs(url):
+def feedtheURLs(url, fileNum):
 	response = requests.get(url)
 	doc = Document(response.text)
 	title = doc.title()
@@ -36,17 +36,17 @@ def feedtheURLs(url):
 	# content = strip_tags(content)
 	summary = strip_tags(summary)
 
-	with open("Crawler_Output.txt", "a") as my_file:
+	with open("Crawler_Output/Articles{}.txt".format(fileNum), "a") as my_file:
 		my_file.write("标题:" + title.encode('utf8'))
 		my_file.write("\n链接:" + url)
 		my_file.write("文章内容:\n" +summary.encode('utf8'))
 
 	clean_lines = []
-	with open("Crawler_Output.txt", "r") as f:
+	with open("Crawler_Output/Articles{}.txt".format(fileNum), "r") as f:
 		lines = f.readlines()
 		clean_lines = [l.strip() for l in lines if l.strip()]
 
-	with open("Crawler_Output.txt", "w") as f:
+	with open("Crawler_Output/Articles{}.txt".format(fileNum), "w") as f:
 # 		f.write('''
 # ========================================================
 # 			''')
@@ -56,9 +56,19 @@ def feedtheURLs(url):
 			''')
 
 def main():
+	counter = 0
+	fileNum = 1
+	if not os.path.exists("Crawler_Output"):
+		os.makedirs("Crawler_Output")
 	with open("Output.txt" , "r") as f:
 		lines = f.readlines()
-		[feedtheURLs(l) for l in lines]
+		# [feedtheURLs(l) for l in lines]
+		for l in lines:
+			feedtheURLs(l, fileNum)
+			counter += 1
+			if (counter>100):
+				counter = 0
+				fileNum += 1
 
 if __name__ == '__main__':
 	main()

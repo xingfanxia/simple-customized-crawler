@@ -3,7 +3,7 @@
 # @Date    : 2016-08-14 02:49:44
 # @Author  : Xingfan Xia (xiax@carleton.edu)
 # @Link    : http://xiax.tech
-# @Version : $1.0
+# @Version : $2.0
 
 # Import Modules
 import requests,re, os

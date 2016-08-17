@@ -3,7 +3,7 @@
 # @Date    : 2016-08-11 18:28:44
 # @Author  : Xingfan Xia (xiax@carleton.edu)
 # @Link    : http://xiax.tech
-# @Version : $1.0
+# @Version : $2.0
 
 # import modules
 import xlrd,sys,re,urlhelper
@@ -30,6 +30,17 @@ def main():
 		fn = str(sys.argv[i])
 		read_and_save(fn)
 		i += 1
+	uniqlines = set(open("Output.txt").readlines())
+	fill = open("Output.txt", 'w').writelines(set(uniqlines))
+
+	# Solution without messing with order
+	# lines_seen = set() # holds lines already seen
+	# outfile = open(outfilename, "w")
+	# for line in open(infilename, "r"):
+	#     if line not in lines_seen: # not a duplicate
+	#         outfile.write(line)
+	#         lines_seen.add(line)
+	# outfile.close()
 
 if __name__ == '__main__':
 	main()

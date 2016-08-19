@@ -44,15 +44,18 @@ def feedtheURLs(url, fileNum):
 		return
 	doc = Document(response.text)
 
-	title = doc.title()
-	# content = doc.content()
-	summary = doc.summary()
-	title = strip_tags(title)
-	# content = strip_tags(content)
-	summary = strip_tags(summary)
-	# print (title)
-	# sys.exit()
-
+	try:
+		title = doc.title()
+		# content = doc.content()
+		summary = doc.summary()
+		title = strip_tags(title)
+		# content = strip_tags(content)
+		summary = strip_tags(summary)
+		# print (title)
+		# sys.exit()
+	except Exception:
+		return
+		
 	with open("Crawler_Output/Articles{}.txt".format(fileNum), "a") as my_file:
 		my_file.write("标题:" + title.encode('utf-8'))
 		my_file.write("\n链接:" + url)

@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2016-08-11 18:28:44
+# @Last Modified: 2016-08-19 20:31:20
 # @Author  : Xingfan Xia (xiax@carleton.edu)
 # @Link    : http://xiax.tech
-# @Version : $2.0
+# @Version : $3.0
 
 # import modules
 import xlrd,sys,re,urlhelper,os

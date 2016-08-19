@@ -18,7 +18,7 @@ $python3 urlExtractorFromXls.py *.xls && python crawler.py
 ### To-Dos
 
 - [ ] CUUS link parsing
-- [ ] Sina Chinese charset encoding issue
+- [x] Sina Chinese charset encoding issue
 - [ ] URL request Error with `%`
 - [ ] Rich input format parsing
 - [x] Progress Bar

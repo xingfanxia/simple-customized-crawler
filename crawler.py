@@ -7,10 +7,11 @@
 
 # Import Modules
 from __future__ import division
-import requests,re, os, sys, time, urllib2
+import requests,re, os, sys, time
 from readability import Document
 from HTMLParser import HTMLParser
 from progressbar import *
+from urllib2 import urlopen
 
 reload(sys)  
 sys.setdefaultencoding('utf-8')  
@@ -31,21 +32,32 @@ def strip_tags(text):
 
 # crawl data with the given url and save it to Crawler_Output.txt
 def feedtheURLs(url, fileNum):
-	try:
-		if ("sina.com" in url):
-			### enocode issue
-			response = requests.get(url, timeout=10)
-			response.raise_for_status()
-		else:
+	# fuck you sina
+	if ("sina" in str(url)):
+			content = urlopen(url).read()
+			str_start = '<!--博文正文 begin -->'
+			str_end = '<!-- 正文结束 -->'
+			start = content.find(str_start)
+			end = content.find(str_end)
+			con1 = '<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\n'
+			con2 = content[start:end]
+			body = con1+con2
+			doc = Document(body)
+	else:
+		try:
 			response = requests.get(url, timeout=10)
 			response.raise_for_status()
 
-	except Exception:
-		return
-	doc = Document(response.text)
+		except Exception:
+			return
+		doc = Document(response.text)
 
 	try:
-		title = doc.title()
+		# fuck sina
+		if ("sina" in str(url)):
+			title = str(re.findall("<h2.*?\/h2>", body)[0]).decode('utf-8')
+		else:	
+			title = doc.title()
 		# content = doc.content()
 		summary = doc.summary()
 		title = strip_tags(title)

@@ -6,10 +6,14 @@
 # @Version : $2.0
 
 # Import Modules
-import requests,re, os
+from __future__ import division
+import requests,re, os, sys, time, urllib2
 from readability import Document
 from HTMLParser import HTMLParser
+from progressbar import *
 
+reload(sys)  
+sys.setdefaultencoding('utf-8')  
 # for stripping html tags
 class MLStripper(HTMLParser):
 	def __init__(self):
@@ -27,19 +31,32 @@ def strip_tags(text):
 
 # crawl data with the given url and save it to Crawler_Output.txt
 def feedtheURLs(url, fileNum):
-	response = requests.get(url)
+	try:
+		if ("sina.com" in url):
+			### enocode issue
+			response = requests.get(url, timeout=10)
+			response.raise_for_status()
+		else:
+			response = requests.get(url, timeout=10)
+			response.raise_for_status()
+
+	except Exception:
+		return
 	doc = Document(response.text)
+
 	title = doc.title()
 	# content = doc.content()
 	summary = doc.summary()
 	title = strip_tags(title)
 	# content = strip_tags(content)
 	summary = strip_tags(summary)
+	# print (title)
+	# sys.exit()
 
 	with open("Crawler_Output/Articles{}.txt".format(fileNum), "a") as my_file:
-		my_file.write("标题:" + title.encode('utf8'))
+		my_file.write("标题:" + title.encode('utf-8'))
 		my_file.write("\n链接:" + url)
-		my_file.write("文章内容:\n" +summary.encode('utf8'))
+		my_file.write("文章内容:\n" +summary.encode('utf-8'))
 
 	clean_lines = []
 	with open("Crawler_Output/Articles{}.txt".format(fileNum), "r") as f:
@@ -58,14 +75,21 @@ def feedtheURLs(url, fileNum):
 def main():
 	counter = 0
 	fileNum = 1
+	progressCounter = 0
 	if not os.path.exists("Crawler_Output"):
 		os.makedirs("Crawler_Output")
 	with open("Output.txt" , "r") as f:
 		lines = f.readlines()
+		total = sum(1 for line in open('Output.txt'))
 		# [feedtheURLs(l) for l in lines]
+		print "There is a totla of {} links".format(total)
 		for l in lines:
 			feedtheURLs(l, fileNum)
 			counter += 1
+			progressCounter += 1
+			pbar = ProgressBar().start()
+			pbar.update(int(progressCounter/(total)*100))
+			time.sleep(0.01)
 			if (counter>100):
 				counter = 0
 				fileNum += 1

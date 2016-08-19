@@ -6,7 +6,7 @@
 # @Version : $2.0
 
 # import modules
-import xlrd,sys,re,urlhelper
+import xlrd,sys,re,urlhelper,os
 
 # Read data from Excel Cells and check if it is an URL
 # If so, write it into the Output file
@@ -19,7 +19,7 @@ def read_and_save(filename):
 				text = str(sh.cell_value(rowx=rx, colx =cx))
 				validation = re.findall(urlhelper.URL_REGEX, text)
 				if (validation):
-					my_file.write(str(text))
+					my_file.write(str(text)+"\n")
 
 # Main method, run $python3 urlExtractorFromXls.py filename.xls
 # You can put all the .xls files in the same directory and
@@ -30,8 +30,9 @@ def main():
 		fn = str(sys.argv[i])
 		read_and_save(fn)
 		i += 1
-	uniqlines = set(open("Output.txt").readlines())
-	fill = open("Output.txt", 'w').writelines(set(uniqlines))
+	# if (os.path.isfile("Output.txt")):
+	# 	uniqlines = set(open("Output.txt").readlines())
+	# 	fill = open("Output.txt", 'w').writelines(set(uniqlines))
 
 	# Solution without messing with order
 	# lines_seen = set() # holds lines already seen

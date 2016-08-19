@@ -7,12 +7,21 @@ A python script to extract URLs from Excel files and then crawl the essential pa
 - requests
 - [readability-lxml](https://github.com/buriy/python-readability)
 - [xlrd](https://github.com/python-excel/xlrd)
+- [progressbar](https://github.com/niltonvolpato/python-progressbar)
 
 ### How to Use
 
 ```bash
 $python3 urlExtractorFromXls.py *.xls && python crawler.py
 ```
+
+### To-Dos
+
+-[ ] CUUS link parsing
+
+
+-[ ] URL request Error with `%`
+-[ ] Rich input format parsing
 
 ### MIT License
 

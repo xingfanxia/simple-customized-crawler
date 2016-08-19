@@ -506,7 +506,7 @@ http://mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=308614313&idx=2&sn=8a785d86
 http://mp.weixin.qq.com/s?__biz=MzA5NTE2NTIwMQ==&mid=218634497&idx=1&sn=61e8f33d4a165566002368469afe04a9&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=308714349&idx=2&sn=64d1ae393e6a6faf8114210191b5c29a&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MzA3OTE1NjYwNQ==&mid=200430635&idx=1&sn=521481216a476e5aa1812d83ac415136&3rd=MzA3MDU4NTYzMw==&scene=6#rd
-mp.weixin.qq.com/s?__biz=MzA3OTE1NjYwNQ==&mid=201013784&idx=1&sn=bef1c5655fe2cd0ee63e87bce8c13d5a&3rd=MzA3MDU4NTYzMw==&scene=6#rd
+http://mp.weixin.qq.com/s?__biz=MzA3OTE1NjYwNQ==&mid=201013784&idx=1&sn=bef1c5655fe2cd0ee63e87bce8c13d5a&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MzA3OTE1NjYwNQ==&mid=204432182&idx=1&sn=c3ab3d385eaf75abf351ea9b9c2c33ce&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MjM5OTU5OTY3NQ==&mid=209678188&idx=1&sn=bfe90f5596857d92900bc2cae11cb0e5&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDA2MDczMA==&mid=10026317&idx=1&sn=af6d6195c1614ad9476ccca93dc8828c&scene=4#wechat_redirect
@@ -1293,7 +1293,7 @@ http://mp.weixin.qq.com/s?__biz=MzA5NTE2NTIwMQ==&mid=10012375&idx=2&sn=2626e5a9f
 http://mp.weixin.qq.com/s?__biz=MzA5NTE2NTIwMQ==&mid=10012375&idx=1&sn=2991451f55a8127d9ed55ac1ec9320e3&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5NTE2NTIwMQ==&mid=10012462&idx=1&sn=ca3e9fbe1d67cf473519f18b7eb1b521&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=308413824&idx=4&sn=1719666e44e70681cf48512593917c8d&3rd=MzA3MDU4NTYzMw==&scene=6#rd
-mp.weixin.qq.com/s?__biz=MzA3OTE1NjYwNQ==&mid=201576458&idx=1&sn=5ec9353431e23fe407fca8b0585992f0&3rd=MzA3MDU4NTYzMw==&scene=6#rd
+http://mp.weixin.qq.com/s?__biz=MzA3OTE1NjYwNQ==&mid=201576458&idx=1&sn=5ec9353431e23fe407fca8b0585992f0&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MjM5OTU5OTY3NQ==&mid=210911771&idx=1&sn=268a7c1573d4a7a42ab9b1c9cb701a02&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5MjQxNzI1Mw==&mid=209561089&idx=1&sn=16b7319d1a4b1dfd3aeaeaf58ee96484&scene=4
 http://mp.weixin.qq.com/s?__biz=MjM5MjQxNzI1Mw==&mid=200773628&idx=1&sn=b21d42af3201da1d8dda228c4183a2a4&scene=4#wechat_redirect
@@ -2118,7 +2118,7 @@ http://blog.sina.com.cn/s/blog_7a6b629f0101bbwz.html
 http://blog.sina.com.cn/s/blog_7a6b629f0101domr.html
 http://blog.sina.com.cn/s/blog_7a6b629f0101abds.html
 http://blog.sina.com.cn/s/blog_601cd9570102ver1.html
-blog.sina.com.cn/s/blog_4faf1f1f0102vn1n.html
+http://blog.sina.com.cn/s/blog_4faf1f1f0102vn1n.html
 http://blog.sina.com.cn/s/blog_4faf1f1f0102vmp3.html
 http://blog.sina.com.cn/s/blog_4faf1f1f0102vm1s.html
 http://blog.sina.com.cn/s/blog_601cd95701019ncv.html

@@ -20,7 +20,10 @@ def read_and_save(filename):
 				text = str(sh.cell_value(rowx=rx, colx =cx))
 				validation = re.findall(urlhelper.URL_REGEX, text)
 				if (validation):
-					my_file.write(str(validation[0])+"\n")
+					theURL = str(validation[0])
+					if ("http" not in theURL):
+						theURL = "http://" + theURL
+					my_file.write(theURL+"\n")
 
 # Main method, run $python3 urlExtractorFromXls.py filename.xls
 # You can put all the .xls files in the same directory and

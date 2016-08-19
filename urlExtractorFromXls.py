@@ -36,8 +36,8 @@ def main():
 
 	# Solution without messing with order
 	# lines_seen = set() # holds lines already seen
-	# outfile = open(outfilename, "w")
-	# for line in open(infilename, "r"):
+	# outfile = open('Output.txt', "w")
+	# for line in open('Output.txt', "r"):
 	#     if line not in lines_seen: # not a duplicate
 	#         outfile.write(line)
 	#         lines_seen.add(line)

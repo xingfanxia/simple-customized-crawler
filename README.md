@@ -7,7 +7,8 @@ A python script to extract URLs from files and then crawl the essential page inf
 - requests
 - [readability-lxml](https://github.com/buriy/python-readability)
 - [xlrd](https://github.com/python-excel/xlrd)
-- [progressbar](https://github.com/niltonvolpato/python-progressbar)
+- ~~[progressbar](https://github.com/niltonvolpato/python-progressbar)~~ (Replaced with tqdm)
+- [tqdm](https://github.com/tqdm/tqdm)
 - [docx2txt](https://github.com/ankushshah89/python-docx2txt)
 
 ### How to Use

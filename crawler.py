@@ -11,8 +11,9 @@ from __future__ import division
 import requests,re, os, sys, time
 from readability import Document
 from HTMLParser import HTMLParser
-from progressbar import *
+# from progressbar import *
 from urllib2 import urlopen
+from tqdm import *
 
 reload(sys)  
 sys.setdefaultencoding('utf-8')  
@@ -100,17 +101,15 @@ def main():
 		os.makedirs("Crawler_Output")
 	with open("Output.txt" , "r") as f:
 		lines = f.readlines()
-		total = sum(1 for line in open('Output.txt'))
+		totalURLs = sum(1 for line in open('Output.txt'))
 		# [feedtheURLs(l) for l in lines]
-		print "There is roughly a total of {} links".format(total)
-		for l in lines:
-			if ("origins/" in l):
-				fileName = str(l)[7:-5]
-			feedtheURLs(l, fileName)
-			progressCounter += 1
-			pbar = ProgressBar().start()
-			pbar.update(int(progressCounter/(total)*100))
-			time.sleep(0.01)
+		print "There is roughly a total of {} links".format(totalURLs)
+		with tqdm(total=totalURLs) as pbar:
+			for l in lines:
+				if ("origins/" in l):
+					fileName = str(l)[7:-5]
+				feedtheURLs(l, fileName)
+				pbar.update(1)
 
 if __name__ == '__main__':
 	main()

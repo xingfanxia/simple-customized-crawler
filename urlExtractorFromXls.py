@@ -31,6 +31,7 @@ def read_and_save(filename):
 		text = docx2txt.process(filename)
 		urls = re.findall(urlhelper.URL_REGEX, text)
 		with open("Output.txt", "a") as my_file:
+			my_file.write(filename +"\n")
 			[my_file.write(theURL+"\n")for theURL in urls]
 	else:
 		pass #to be added

@@ -12,7 +12,7 @@ import xlrd,sys,re,urlhelper,os,docx2txt,io
 # Read data from Excel Cells and check if it is an URL
 # If so, write it into the Output file
 def read_and_save(filename):
-	if (".xls" in filename):
+	if (".xls" in filename): #if it is an Excel File no matter .xls or .xlsx
 		book = xlrd.open_workbook(filename)
 		sh = book.sheet_by_index(0)
 		with open("Output.txt", "a") as my_file:
@@ -26,22 +26,16 @@ def read_and_save(filename):
 						if ("http" not in theURL):
 							theURL = "http://" + theURL
 						my_file.write(theURL+"\n")
-	elif (".docx" in filename):
+
+	elif (".docx" in filename): #if it is a word file ending with .docx
 		text = docx2txt.process(filename)
-		buf = io.StringIO(text)
-		lines = buf.readline()
-		print(text)
-		# pos = msg.find("\n")
-		# first_line = msg[:pos]
-		# ...
+		urls = re.findall(urlhelper.URL_REGEX, text)
 		with open("Output.txt", "a") as my_file:
-			for l in lines:
-				validation = re.findall(urlhelper.URL_REGEX, l)
-				if (validation):
-					theURL = str(validation[0])
-					if ("http" not in theURL):
-						theURL = "http://" + theURL
-					my_file.write(theURL+"\n")			
+			[my_file.write(theURL+"\n")for theURL in urls]
+	else:
+		pass #to be added
+
+						
 
 
 # Main method, run $python3 urlExtractorFromXls.py filename.xls

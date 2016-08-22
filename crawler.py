@@ -96,7 +96,7 @@ def main():
 		lines = f.readlines()
 		total = sum(1 for line in open('Output.txt'))
 		# [feedtheURLs(l) for l in lines]
-		print "There is a totla of {} links".format(total)
+		print "There is roughly a total of {} links".format(total)
 		for l in lines:
 			if ("origins/" in l):
 				fileName = str(l)[7:-5]

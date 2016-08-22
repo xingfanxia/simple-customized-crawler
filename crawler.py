@@ -104,7 +104,7 @@ def main():
 		totalURLs = sum(1 for line in open('Output.txt'))
 		# [feedtheURLs(l) for l in lines]
 		print "There is roughly a total of {} links".format(totalURLs)
-		with tqdm(total=totalURLs) as pbar:
+		with tqdm(unit='link',total=totalURLs) as pbar:
 			for l in lines:
 				if ("origins/" in l):
 					fileName = str(l)[7:-5]

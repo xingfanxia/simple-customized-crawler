@@ -1,4 +1,4 @@
-# Python Web Crawler From Excel Xls Files
+# Simple Customized Crawler
 
 A python script to extract URLs from files and then crawl the essential page info and article content of the URLs and export to txt files. Each output txt file corresponds to one input file.
 

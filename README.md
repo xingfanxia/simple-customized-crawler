@@ -18,9 +18,15 @@ $python3 urlExtractorFromXls.py *.xls && python crawler.py
 ### To-Dos
 
 - [ ] CUUS link parsing
+- [ ] Sina blog page inconsistence causing parsing failures
+- [x] Report error for page that no longer exist in Output
 - [x] Sina Chinese charset encoding issue
 - [ ] URL request Error with `%`
-- [ ] Rich input format parsing
+- [x] Rich input format parsing
+    Now supports:
+      - [x] docx
+      - [x] xls
+      - [x] xlsx
 - [x] Progress Bar
 - [x] Large Volume Processsing
 

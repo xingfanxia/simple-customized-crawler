@@ -72,7 +72,11 @@ def feedtheURLs(url, fileName):
 	with open("Crawler_Output/{}.txt".format(fileName), "a") as my_file:
 		my_file.write("标题:" + title.encode('utf-8'))
 		my_file.write("\n链接:" + url)
-		my_file.write("文章内容:\n" +summary.encode('utf-8'))
+		if (re.search(u'[\u4e00-\u9fff]', summary)):
+			my_file.write("文章内容:\n" +summary.encode('utf-8'))
+		else:
+			my_file.write("文章内容:\n" +"该文章已经被删除或网络请求错误")
+
 
 	clean_lines = []
 	with open("Crawler_Output/{}.txt".format(fileName), "r") as f:
@@ -89,6 +93,7 @@ def feedtheURLs(url, fileName):
 			''')
 
 def main():
+	fileName = "Test"
 	progressCounter = 0
 	if not os.path.exists("Crawler_Output"):
 		os.makedirs("Crawler_Output")

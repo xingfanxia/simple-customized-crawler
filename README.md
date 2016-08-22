@@ -9,6 +9,7 @@ A python script to extract URLs from files and then crawl the essential page inf
 - [xlrd](https://github.com/python-excel/xlrd)
 - [progressbar](https://github.com/niltonvolpato/python-progressbar)
 - [docx2txt](https://github.com/ankushshah89/python-docx2txt)
+
 ### How to Use
 
 ```bash

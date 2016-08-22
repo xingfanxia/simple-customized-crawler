@@ -1,18 +1,18 @@
 # Python Web Crawler From Excel Xls Files
 
-A python script to extract URLs from Excel files and then crawl the essential page info and article content of the URLs and save it to a txt file.
+A python script to extract URLs from files and then crawl the essential page info and article content of the URLs and export to txt files. Each output txt file corresponds to one input file.
 
-### Essential Packages
+### Essential Third Party Packages
 
 - requests
 - [readability-lxml](https://github.com/buriy/python-readability)
 - [xlrd](https://github.com/python-excel/xlrd)
 - [progressbar](https://github.com/niltonvolpato/python-progressbar)
-
+- [docx2txt](https://github.com/ankushshah89/python-docx2txt)
 ### How to Use
 
 ```bash
-$python3 urlExtractorFromXls.py *.xls && python crawler.py
+$python3 urlExtractorFromXls.py * && python crawler.py
 ```
 
 ### To-Dos

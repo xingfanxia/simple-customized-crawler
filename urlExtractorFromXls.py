@@ -4,7 +4,7 @@
 # @Last Modified: 2016-08-19 20:31:20
 # @Author  : Xingfan Xia (xiax@carleton.edu)
 # @Link    : http://xiax.tech
-# @Version : $3.0
+# @Version : $4.0
 
 # import modules
 import xlrd,sys,re,urlhelper,os,docx2txt,io

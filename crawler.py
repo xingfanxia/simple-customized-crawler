@@ -4,7 +4,7 @@
 # @Last Modified: 2016-08-19 20:31:20
 # @Author  : Xingfan Xia (xiax@carleton.edu)
 # @Link    : http://xiax.tech
-# @Version : $3.0
+# @Version : $4.0
 
 # Import Modules
 from __future__ import division
@@ -70,13 +70,14 @@ def feedtheURLs(url, fileName):
 		return
 		
 	with open("Crawler_Output/{}.txt".format(fileName), "a") as my_file:
-		my_file.write("标题:" + title.encode('utf-8'))
-		my_file.write("\n链接:" + url)
 		if (re.search(u'[\u4e00-\u9fff]', summary)):
+			my_file.write("标题:" + title.encode('utf-8'))
+			my_file.write("\n链接:" + url)
 			my_file.write("文章内容:\n" +summary.encode('utf-8'))
 		else:
+			my_file.write("标题:" + "该链接是无效链接")
+			my_file.write("\n链接:" + url)
 			my_file.write("文章内容:\n" +"该文章已经被删除或网络请求错误")
-
 
 	clean_lines = []
 	with open("Crawler_Output/{}.txt".format(fileName), "r") as f:

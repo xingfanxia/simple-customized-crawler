@@ -32,7 +32,7 @@ def strip_tags(text):
 	return s.get_data()
 
 # crawl data with the given url and save it to Crawler_Output.txt
-def feedtheURLs(url, fileNum):
+def feedtheURLs(url, fileName):
 	# fuck you sina
 	if ("sina" in str(url)):
 			content = urlopen(url).read()
@@ -69,17 +69,17 @@ def feedtheURLs(url, fileNum):
 	except Exception:
 		return
 		
-	with open("Crawler_Output/Articles{}.txt".format(fileNum), "a") as my_file:
+	with open("Crawler_Output/{}.txt".format(fileName), "a") as my_file:
 		my_file.write("标题:" + title.encode('utf-8'))
 		my_file.write("\n链接:" + url)
 		my_file.write("文章内容:\n" +summary.encode('utf-8'))
 
 	clean_lines = []
-	with open("Crawler_Output/Articles{}.txt".format(fileNum), "r") as f:
+	with open("Crawler_Output/{}.txt".format(fileName), "r") as f:
 		lines = f.readlines()
 		clean_lines = [l.strip() for l in lines if l.strip()]
 
-	with open("Crawler_Output/Articles{}.txt".format(fileNum), "w") as f:
+	with open("Crawler_Output/{}.txt".format(fileName), "w") as f:
 # 		f.write('''
 # ========================================================
 # 			''')
@@ -89,8 +89,6 @@ def feedtheURLs(url, fileNum):
 			''')
 
 def main():
-	counter = 0
-	fileNum = 1
 	progressCounter = 0
 	if not os.path.exists("Crawler_Output"):
 		os.makedirs("Crawler_Output")
@@ -100,15 +98,13 @@ def main():
 		# [feedtheURLs(l) for l in lines]
 		print "There is a totla of {} links".format(total)
 		for l in lines:
-			feedtheURLs(l, fileNum)
-			counter += 1
+			if ("origins/" in l):
+				fileName = str(l)[7:-5]
+			feedtheURLs(l, fileName)
 			progressCounter += 1
 			pbar = ProgressBar().start()
 			pbar.update(int(progressCounter/(total)*100))
 			time.sleep(0.01)
-			if (counter>100):
-				counter = 0
-				fileNum += 1
 
 if __name__ == '__main__':
 	main()

@@ -15,6 +15,7 @@ def read_and_save(filename):
 	book = xlrd.open_workbook(filename)
 	sh = book.sheet_by_index(0)
 	with open("Output.txt", "a") as my_file:
+		my_file.write(filename +"\n")
 		for rx in range(sh.nrows):
 			for cx in range(sh.ncols):
 				text = str(sh.cell_value(rowx=rx, colx =cx))

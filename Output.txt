@@ -1,3 +1,4 @@
+origins/AO的建议(1).xls
 http://mp.weixin.qq.com/s?__biz=MzA5MjQ3MjQzMg==&mid=202504248&idx=2&sn=376198f499b33f61d2ec31e19b0ccd11&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MzAxMjYxMg==&mid=203207216&idx=1&sn=2cf6216b0adbdb1f40b1bb42715adeba&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5OTA5MzQzNQ==&mid=200725235&idx=1&sn=78913b895fdba5768d55d45d85d70e02&scene=4#wechat_redirect
@@ -38,6 +39,7 @@ http://mp.weixin.qq.com/s?__biz=MzA3MDA2MDczMA==&mid=206185174&idx=1&sn=3bff03ba
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=2653316499&idx=1&sn=a944ba43b25763bac0375847c5582bad&scene=1&srcid=0804fjgU3nf5bdGxRMWdfhiS&pass_ticket=GpHkNvu1UOTxIrBTITISP3fNsq69ucT2sd17mS8aVBAIO8Xif%2BX1%2BTIPxB%2FNPeG5#rd
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=200042439&idx=1&sn=c7afa0a4dd5fc2a721f22a1459deb3b3&scene=1&srcid=0810KUw4CNFq803NsLvceDZ8&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO#rd
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=10014417&idx=1&sn=aa0f41f60bb9f615fc901dc0266df504&scene=1&srcid=0810V3nDqClEZHlvKYoGruSm&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO#rd
+origins/AO的建议.xls
 http://blog.sina.com.cn/s/blog_e100b1c30101ng8x.html
 http://blog.sina.com.cn/s/blog_601cd957010118kf.html
 http://blog.sina.com.cn/s/blog_7a6b629f0102w5d3.html
@@ -48,6 +50,7 @@ http://blog.sina.com.cn/s/blog_7a6b629f0101nway.html
 http://blog.sina.com.cn/s/blog_7a6b629f01019ypf.html
 http://blog.sina.com.cn/s/blog_7a6b629f01019gnq.html
 http://blog.sina.com.cn/s/blog_7a6b629f0100qg2r.html
+origins/FA.xls
 http://blog.sina.com.cn/s/blog_601cd9570102v8fq.html
 http://blog.sina.com.cn/s/blog_601cd9570102v8fm.html
 http://blog.sina.com.cn/s/blog_601cd9570101940l.html
@@ -81,6 +84,7 @@ http://blog.sina.com.cn/s/blog_6d5d49b90102v1l0.html
 http://blog.sina.com.cn/s/blog_ed22e9740102vq0h.html
 http://blog.sina.com.cn/s/blog_7a6b629f0102vcv3.html
 http://blog.sina.com.cn/s/blog_7a6b629f0100q9o4.html
+origins/专业介绍与选择（新）by沙致辰.xls
 http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=222042523&idx=3&sn=9cf851bb4ad8488377bdd56f357548f5&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=216371147&idx=2&sn=413d13ccf532c5d14b663eaa152a85a7&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=208054184&idx=4&sn=1139a76a05cb34f6782f37e7e2ebc0a5&scene=4#wechat_redirect
@@ -158,6 +162,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MjQxNzI1Mw==&mid=205943696&idx=2&sn=824162c3
 http://mp.weixin.qq.com/s?__biz=MjM5MjQxNzI1Mw==&mid=205771386&idx=1&sn=0913bdac8d9f73a563ad52df5e2c2a01&scene=4
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=2653316807&idx=1&sn=7fa25ff63c8ab3f5e8d971047817bc69&scene=1&srcid=0804UloWJWZSuTzj7cwi6Hxa&pass_ticket=GpHkNvu1UOTxIrBTITISP3fNsq69ucT2sd17mS8aVBAIO8Xif%2BX1%2BTIPxB%2FNPeG5#rd
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=2653316487&idx=1&sn=dca4f461be20dfadad9668ca657130d9&scene=1&srcid=0804sB3adxDrEKAWvCSOME4C&pass_ticket=GpHkNvu1UOTxIrBTITISP3fNsq69ucT2sd17mS8aVBAIO8Xif%2BX1%2BTIPxB%2FNPeG5#rd
+origins/专业学科介绍与选择.xls
 http://blog.sina.com.cn/s/blog_66cbbea30102eexs.html
 http://blog.sina.com.cn/s/blog_604d740a0100l5ca.html
 http://blog.sina.com.cn/s/blog_56b738540100qcwl.html
@@ -232,11 +237,13 @@ http://blog.sina.com.cn/s/blog_476df96a010002y5.html
 http://blog.sina.com.cn/s/blog_476df96a010002y1.html
 http://blog.sina.com.cn/s/blog_476df96a010002xy.html
 http://blog.sina.com.cn/s/blog_476df96a010002xx.html
+origins/个人成长与完善.xls
 http://blog.sina.com.cn/s/blog_4e326f010101ar4h.html
 http://blog.sina.com.cn/s/blog_6ca1e3770100o1g8.html
 http://blog.sina.com.cn/s/blog_7c9df20d0101j4sd.html
 http://blog.sina.com.cn/s/blog_9022d5060101fkjl.html
 http://blog.sina.com.cn/s/blog_45f00ef40102ekl6.html
+origins/中介.xls
 http://www.sharewithu.com/thread-513319-1-1.html
 http://www.sharewithu.com/thread-517848-1-1.html
 https://www.cuus.info/forum.php?mod=viewthread&tid=48221&extra=page%3D1%26filter%3Dtypeid%26typeid%3D44
@@ -250,6 +257,7 @@ https://www.cuus.info/forum.php?mod=viewthread&tid=45791&extra=page%3D1%26filter
 https://www.cuus.info/forum.php?mod=viewthread&tid=28904&highlight=%E4%B8%AD%E4%BB%8B
 https://www.cuus.info/forum.php?mod=viewthread&tid=36582&highlight=%E4%B8%AD%E4%BB%8B
 https://www.cuus.info/forum.php?mod=viewthread&tid=91870&highlight=%E4%B8%AD%E4%BB%8B
+origins/交流礼仪面试 tag整理 .xls
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=200272516&idx=3&sn=30254a3c9d9e2cee2e26a5f428801cd9&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=200300081&idx=4&sn=93b1653205ef3d9ae828473a479f9ef7&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=200303421&idx=1&sn=b84a5329112b44e22d5308d4ea0baac7&scene=4#wechat_redirect
@@ -343,6 +351,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=224456877&idx=4&sn=eee2085f
 http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=224553566&idx=4&sn=87d7d92f0bf80d3f34bdc35215b14270&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MzA4MDEzMjMzNg==&mid=211692737&idx=2&sn=703a89e2979e2346a17ed7334b0348c3&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MzA4MDEzMjMzNg==&mid=211812099&idx=3&sn=42db0e73276918c7c6f6b86459731251&3rd=MzA3MDU4NTYzMw==&scene=6#rd
+origins/交流礼仪面试.xls
 http://blog.sina.com.cn/s/blog_523101000101g2ob.html
 http://blog.sina.com.cn/s/blog_508481ea0101jqym.html
 http://blog.sina.com.cn/s/blog_5f7ac5e90100l62k.html
@@ -356,6 +365,7 @@ http://blog.sina.com.cn/s/blog_ed22e9740102vsbl.html
 http://blog.sina.com.cn/s/blog_61e5e7440101pv6j.html
 http://blog.sina.com.cn/s/blog_13787b4980102vr61.html
 http://blog.sina.com.cn/s/blog_6d5d49b90101hbx5.html
+origins/人物.xls
 http://blog.sina.com.cn/s/blog_75ac2de701019b2m.html
 http://blog.sina.com.cn/s/blog_631b93740100rxfu.html
 http://blog.sina.com.cn/s/blog_7c9df20d0101epz4.html
@@ -383,6 +393,7 @@ http://blog.sina.com.cn/s/blog_45f00ef40100fgt9.html
 http://blog.sina.com.cn/s/blog_45f00ef40102e7dn.html
 http://blog.sina.com.cn/s/blog_45f00ef40102e7a3.html
 http://blog.sina.com.cn/s/blog_6d5d49b901013g9r.html
+origins/人物（访谈、传记）总.xls
 http://mp.weixin.qq.com/s?__biz=MzA5NTE2NTIwMQ==&mid=215531965&idx=1&sn=047a193882e4dea826711ceb94d6131a&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5NTE2NTIwMQ==&mid=214106422&idx=3&sn=a01b701c289f37ed5be69cd14f77b74c&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5NTE2NTIwMQ==&mid=214021693&idx=1&sn=b5c8970ee191f81695acfceb1f6d1aff&scene=4#wechat_redirect
@@ -520,6 +531,7 @@ https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=206777151&idx=1&sn=18b70bd
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=200561150&idx=1&sn=ba33c4e25562047e556873272c0d7cf1&scene=1&srcid=08095sxaiKDx82RVXXYGqUpL&pass_ticket=N8dGJq1eKRp9GcoBvx86F0JKqrEZ7B0eFbtVFwwK6urPhZaWPXfCpwV0RflBI5zB#rd
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=200557006&idx=1&sn=b15b612146402debd6d15f58a99ee959&scene=1&srcid=0809ffcGFKeCCJYNUoUBwalM&pass_ticket=q6RLrihXqBBlloW0dTZZgGiD4McBb2Wp142ZP1xMtH0qWxJhdgoa2WWxD7KZVMej#rd
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=200523186&idx=1&sn=6115d89fa4a6ea247f74dd792dbb297f&scene=1&srcid=0809xntxho7s0qAfTCgNHpnl&pass_ticket=q6RLrihXqBBlloW0dTZZgGiD4McBb2Wp142ZP1xMtH0qWxJhdgoa2WWxD7KZVMej#rd
+origins/学校介绍.xls
 https://www.cuus.info/thread-60761-1-1.html
 https://www.cuus.info/thread-40853-1-2.html
 https://www.cuus.info/thread-64638-1-2.html
@@ -538,6 +550,7 @@ http://www.sharewithu.com/thread-526952-1-1.html
 http://www.sharewithu.com/thread-435322-1-1.html
 http://www.sharewithu.com/thread-453740-1-1.html
 http://www.sharewithu.com/thread-434937-1-1.html
+origins/学校介绍文化 段雨沁.xls
 http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=220251663&idx=2&sn=7c3d14c55af3c2a22619ab1b7309657e&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=206657522&idx=2&sn=67180ef3bdfea0585b9d3a99618fa28e&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5OTE0Njg4NQ==&mid=206543386&idx=3&sn=ae9d765b1ba2fb6619c9b6a32b13338d&scene=4#wechat_redirect
@@ -688,6 +701,7 @@ https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000254
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000258&itemidx=2&sign=3298de7853539417d66b2ed4b35fba6a&scene=1&srcid=08109kUfBqRhiRkiv5iAFdrE&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000258&itemidx=1&sign=4d53a453c0409ec1358458b744925a20&scene=1&srcid=0810N3AkpMqgTWXEck79UBJT&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000201&itemidx=1&sign=b539c2c14747669f264b9da5378bdf08&scene=1&srcid=0810oDwvDooYEQvinPrDAif5&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
+origins/学科.xls
 http://www.sharewithu.com/thread-433732-1-1.html
 http://www.sharewithu.com/thread-716350-1-1.html
 https://www.cuus.info/thread-40134-1-1.html
@@ -698,6 +712,7 @@ https://www.cuus.info/thread-47932-1-1.html
 https://www.cuus.info/forum.php?mod=viewthread&tid=15360&highlight=What%2BTo%2BDo%2BBefore%2BCollege
 https://www.cuus.info/thread-15394-1-2.html
 https://www.cuus.info/thread-52000-1-3.html
+origins/心态 (1).xls
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=200317348&idx=4&sn=6be72c2e96e6e36f3582987e9310caf4&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=200323237&idx=3&sn=b9afec475310d4be2e4f7956cc893439&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5ODUwMzIyNg==&mid=200379451&idx=5&sn=019afbd856c6aa1c88dc3534f86e46e0&3rd=MzA3MDU4NTYzMw==&scene=6#rd
@@ -758,6 +773,7 @@ http://mp.weixin.qq.com/s?__biz=MzA4MDIzMDgwMw==&mid=211290697&idx=2&sn=32836919
 http://mp.weixin.qq.com/s?__biz=MzA4MjE4MTAxOA==&mid=200643801&idx=1&sn=94354e7384eda0e47048d5a4e6f07817&scene=4#wechat_redirect
 https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NzQ1OTQyMQ%3D%3D%26mid%3D206569549%26idx%3D1%26sn%3D3ca7ad6827acc168f9a2da4058a329ba%26scene%3D1%26srcid%3D0808ZFwjKRg6WyRDoIletAng%23rd&skey=%40crypt_87b00e98_68790b28db59b69641c904c629423477&deviceid=e637158963829279&pass_ticket=undefined&opcode=2&scene=1&username=@83ebff276021c41704d0f29cce12a5fd5cf40115b29adda957b55958cbe63af0
 https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NzQ1OTQyMQ%3D%3D%26mid%3D201932140%26idx%3D1%26sn%3D386dbf85a0a7160697708fe4f72314b7%26scene%3D1%26srcid%3D0809xSPmA2YgYPi0x5LgqADO%23rd&skey=%40crypt_87b00e98_cb9681dd89246195f8e8bdea3f93df3d&deviceid=e238079028204083&pass_ticket=undefined&opcode=2&scene=1&username=@b0102a48930c135bd821baa0daf6d6998a31b733d01626ab2a28c3a984c7514d
+origins/心态 论坛.xls
 https://www.cuus.info/thread-65169-1-1.html
 https://www.cuus.info/forum.php?mod=viewthread&tid=62508&extra=page%3D1%26filter%3Dtypeid%26typeid%3D42
 https://www.cuus.info/forum.php?mod=viewthread&tid=31703&extra=page%3D1%26filter%3Dtypeid%26typeid%3D42
@@ -767,8 +783,10 @@ https://www.cuus.info/thread-43340-1-1.html
 http://www.sharewithu.com/thread-547749-1-1.html
 http://www.sharewithu.com/thread-505868-1-1.html
 http://www.sharewithu.com/thread-484097-1-1.html
+origins/心态.xls
 http://blog.sina.com.cn/s/blog_631b937401010g7p.html
 http://blog.sina.com.cn/s/blog_13787b4980102vsw2.html
+origins/思考解析总-最终版.xls
 http://mp.weixin.qq.com/s?__biz=MzA5MjQ3MjQzMg==&mid=204401018&idx=1&sn=a7daa777f41a0471c05b4a0acd8add51&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5MjQ3MjQzMg==&mid=202877410&idx=1&sn=8f6dbfbfb9051d22e923bfa0c773ba1f&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5MjQ3MjQzMg==&mid=202545341&idx=2&sn=306406a1a75c649d0143b11b40cc3396&scene=4#wechat_redirect
@@ -1019,6 +1037,7 @@ http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=208178101&idx=1&sn=60811b2f
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=208577336&idx=3&sn=457dc754535ce3aa4a041f16c7eb17d8&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=209544446&idx=3&sn=d868986d0c65c3610bbb0e181fc7001a&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MzA5NjMxMzgzMQ==&mid=207737541&idx=1&sn=21aa0fc12830fb9c28a6f4a15e7c85d3&3rd=MzA3MDU4NTYzMw==&scene=6#rd
+origins/标准化考试准备 完整版.xls
 http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MjQxNzI1Mw==&appmsgid=10000280&itemidx=3&sign=32ab06698ae28c7d9864f14c71b0e6e1&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5OTA5MzQzNQ==&mid=200455980&idx=1&sn=09e4bc6618c2adfd088aa5729104a3dc&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA4NjI5MzUwOQ==&mid=211816020&idx=1&sn=9927d909863e77573596c210d68c043d&scene=4#wechat_redirect
@@ -1575,6 +1594,7 @@ http://mp.weixin.qq.com/s?__biz=MzA4NDIwMTgxMg==&mid=201774317&idx=1&sn=43690c51
 http://mp.weixin.qq.com/s?__biz=MzA4NDIwMTgxMg==&mid=201428899&idx=1&sn=62134983ce18fde4f7c46fa8ebe1c0d0&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA4NDIwMTgxMg==&mid=201450548&idx=1&sn=b7aac59d2464376564276db00ed53213&scene=4#wechat_redirect
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=403247672&idx=1&sn=72cfe1115c1280161934be01ba5213da&scene=1&srcid=0806zsJ3wJcXqTef764X2vkx&pass_ticket=CY3zIxjYS7oF2gG1Y53x%2BHOy5%2FdB3i3ErM%2FSegZ9UpeLoCkQxSYsDmMzoA4fzszM#rd
+origins/标化考试.xls
 http://www.sharewithu.com/thread-443446-1-1.html
 http://www.sharewithu.com/thread-434927-1-1.html
 http://www.sharewithu.com/thread-519307-1-1.html
@@ -1826,6 +1846,7 @@ http://www.sharewithu.com/thread-672331-1-1.html
 http://www.sharewithu.com/thread-548917-1-1.html
 http://www.sharewithu.com/thread-583578-1-1.html
 http://www.sharewithu.com/thread-550126-1-1.html
+origins/排名与数据.xls
 http://blog.sina.com.cn/s/blog_55715dd80101s94o.html
 http://blog.sina.com.cn/s/blog_55715dd80101s94g.html
 http://blog.sina.com.cn/s/blog_601cd9570100k5fc.html
@@ -1919,6 +1940,7 @@ http://blog.sina.com.cn/s/blog_61e5e7440101mdsj.html
 http://blog.sina.com.cn/s/blog_476df96a0100ahap.html
 http://blog.sina.com.cn/s/blog_476df96a010004d9.html
 http://blog.sina.com.cn/s/blog_5e2c0e790102ee4n.html
+origins/文书.xls
 http://blog.sina.com.cn/s/blog_631b93740100rkwz.html
 http://blog.sina.com.cn/s/blog_631b93740100rkz4.html
 http://blog.sina.com.cn/s/blog_4c07502e0100kpyq.html
@@ -1990,6 +2012,7 @@ http://blog.sina.com.cn/s/blog_5f7ac5e90100l57u.html
 http://blog.sina.com.cn/s/blog_5f7ac5e90100k077.html
 http://blog.sina.com.cn/s/blog_5f7ac5e90100jy3i.html
 http://blog.sina.com.cn/s/blog_5f7ac5e90100hxjk.html
+origins/文书补充（新模式）.xls
 http://chuansong.me/n/1358893
 http://mp.weixin.qq.com/s?__biz=MzA4NjI5MzUwOQ==&mid=200524897&idx=1&sn=8f533fde849eaee17a17904dc7c06168&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5MTE5MTU0Nw==&mid=204064306&idx=2&sn=620e172d154e045e23191666f529f57e&scene=4#wechat_redirect
@@ -2007,6 +2030,7 @@ https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000061
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000037&itemidx=1&sign=6477a56f0db372a5fa3f60185f375cd6&scene=1&srcid=0810gFNwdrXWlw4jHNTMnvNf&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000041&itemidx=1&sign=30c66fcc3d7b8b27136ae00814630433&scene=1&srcid=08102Z6Ms8ZidJJhC663I2ru&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000047&itemidx=1&sign=7d00b5cc3945b2377c6e4e517ddaa9a5&scene=1&srcid=0810FfkRCTVQrZPZF9MQxfOs&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
+origins/活动奖项 段雨沁.xls
 http://chuansong.me/n/1345339
 http://mp.weixin.qq.com/s?__biz=MjM5MTE5MTU0Nw==&mid=205229766&idx=3&sn=ee9e0ae15dc8c28849c460d37f77cf09&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5MTE5MTU0Nw==&mid=200140460&idx=1&sn=e84f5dc213eab408614cb3f449feddcc&scene=4#wechat_redirect
@@ -2094,6 +2118,7 @@ https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weix
 https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NzQ1OTQyMQ%3D%3D%26mid%3D200694689%26idx%3D1%26sn%3D2f34104fe3e661cfe3332b5a58c5b486%26scene%3D1%26srcid%3D0809gEoMlnznZp3XF2E341el%23rd&skey=%40crypt_87b00e98_cb9681dd89246195f8e8bdea3f93df3d&deviceid=e238079028204083&pass_ticket=undefined&opcode=2&scene=1&username=@b0102a48930c135bd821baa0daf6d6998a31b733d01626ab2a28c3a984c7514d
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=200681242&idx=1&sn=f6c6392febb1f2eee26e8b2db2d212a4&scene=1&srcid=0809ttvqxnfFFSvHW3nUIR66&pass_ticket=N8dGJq1eKRp9GcoBvx86F0JKqrEZ7B0eFbtVFwwK6urPhZaWPXfCpwV0RflBI5zB#rd
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000050&itemidx=1&sign=a9ce8d5db219c103330685653d3e9a51&scene=1&srcid=0810yZSr5M28NQLGIRDjN8HR&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
+origins/活动奖项.xls
 http://blog.sina.com.cn/s/blog_5231010001015xnp.html
 http://blog.sina.com.cn/s/blog_4c07502e0102voow.html
 http://blog.sina.com.cn/s/blog_602c4b930102vlmy.html
@@ -2118,6 +2143,7 @@ http://blog.sina.com.cn/s/blog_7a6b629f0101bbwz.html
 http://blog.sina.com.cn/s/blog_7a6b629f0101domr.html
 http://blog.sina.com.cn/s/blog_7a6b629f0101abds.html
 http://blog.sina.com.cn/s/blog_601cd9570102ver1.html
+origins/申请总论  .xls
 http://blog.sina.com.cn/s/blog_4faf1f1f0102vn1n.html
 http://blog.sina.com.cn/s/blog_4faf1f1f0102vmp3.html
 http://blog.sina.com.cn/s/blog_4faf1f1f0102vm1s.html
@@ -2187,6 +2213,7 @@ http://blog.sina.com.cn/s/blog_7a6b629f0101ayb2.html
 http://blog.sina.com.cn/s/blog_7a6b629f0101ameh.html
 http://blog.sina.com.cn/s/blog_7a6b629f01016c6a.html
 http://blog.sina.com.cn/s/blog_7a6b629f01016503.html
+origins/申请总论 .xls
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=202189072&idx=4&sn=b7c83e3ec61060599a82fadcb0b425d7&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MzEyNjUzNA==&mid=205662311&idx=1&sn=33aaf442ffb9d9413ea9fbd9ea411a46&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5MjQ3MjQzMg==&mid=200110134&idx=1&sn=9d7dc561df5ba47f496970d1dfaadef5&scene=4#wechat_redirect
@@ -2288,6 +2315,7 @@ https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000262
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000246&itemidx=2&sign=3ca5baeec3daa0f13f2a7456b0163e70&scene=1&srcid=0810y5ttm866uFxN9N5C7vbn&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000238&itemidx=1&sign=eb45458ec81f560024af2df810e08fd4&scene=1&srcid=0810aZB9muRYrQ8OmrJt7dvn&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fappmsg%2Fshow%3F__biz%3DMjM5NzQ1OTQyMQ%3D%3D%26appmsgid%3D10000034%26itemidx%3D1%26sign%3Df5b20758cfd4c7c056ed306f1a7df399%26scene%3D1%26srcid%3D0810Mo3jAv71W7WIcesrXZu6%23wechat_redirect&skey=%40crypt_87b00e98_f665fab74a7d429912df10036278137f&deviceid=e274457352235913&pass_ticket=undefined&opcode=2&scene=1&username=@6c0495c91500849e34a1204a181b494b47c19500c266edf462a30314db166497
+origins/申请总论.xls
 https://www.cuus.info/thread-15556-1-2.html
 https://www.cuus.info/thread-13411-1-2.html
 https://www.cuus.info/thread-31709-1-2.html
@@ -2314,6 +2342,7 @@ http://www.sharewithu.com/thread-510569-1-1.html
 http://www.sharewithu.com/thread-680738-1-1.html
 http://www.sharewithu.com/thread-681108-1-1.html
 http://www.sharewithu.com/thread-546775-1-1.html
+origins/申请感言.xls
 https://www.cuus.info/thread-43340-1-1.html
 https://www.cuus.info/thread-38281-1-1.html
 https://www.cuus.info/thread-30112-1-1.html
@@ -2371,6 +2400,7 @@ http://www.sharewithu.com/thread-526952-1-1.html
 http://www.sharewithu.com/thread-698640-1-1.html
 http://www.sharewithu.com/thread-548785-1-1.html
 http://www.sharewithu.com/thread-513380-1-1.html
+origins/申请数据.xls
 http://www.sharewithu.com/thread-454775-1-1.html
 http://www.sharewithu.com/thread-435322-1-1.html
 http://www.sharewithu.com/thread-622484-1-1.html
@@ -2378,6 +2408,7 @@ http://www.sharewithu.com/thread-484640-1-1.html
 http://www.sharewithu.com/thread-429432-1-1.html
 http://www.sharewithu.com/thread-453740-1-1.html
 http://www.sharewithu.com/thread-434937-1-1.html
+origins/留学在外.xls
 http://www.sharewithu.com/thread-708892-1-1.html
 http://www.sharewithu.com/thread-710296-1-1.html
 http://www.sharewithu.com/thread-710463-1-1.html
@@ -2413,6 +2444,7 @@ http://www.sharewithu.com/thread-399251-1-1.html
 http://www.sharewithu.com/thread-422390-1-1.html
 http://www.sharewithu.com/thread-481230-1-1.html
 http://www.sharewithu.com/thread-536516-1-1.html
+origins/留学生活.xls
 http://blog.sina.com.cn/s/blog_7a6b629f0102v0c2.html
 http://blog.sina.com.cn/s/blog_7a6b629f0102uzmp.html
 http://blog.sina.com.cn/s/blog_7a6b629f0101ncl5.html
@@ -2487,6 +2519,7 @@ http://blog.sina.com.cn/s/blog_643877eb0100tx1a.html
 http://blog.sina.com.cn/s/blog_643877eb0100qr7f.html
 http://blog.sina.com.cn/s/blog_643877eb0100q9yf.html
 http://blog.sina.com.cn/s/blog_71e1c22a0100pi4u.html
+origins/签证.xls
 http://blog.sina.com.cn/s/blog_60b6797b0100q72r.html
 http://blog.sina.com.cn/s/blog_66cbbea30102eemx.html
 http://blog.sina.com.cn/s/blog_5f3bc5d00101b0zu.html
@@ -2517,6 +2550,7 @@ http://blog.sina.com.cn/s/blog_6c141a1e0100v227.html
 http://blog.sina.com.cn/s/blog_538f3f1c0100vn5j.html
 http://blog.sina.com.cn/s/blog_45c508390100j4qd.html
 http://blog.sina.com.cn/s/blog_476df96a01000260.html
+origins/职业前景规划.xls
 http://www.sharewithu.com/thread-439526-1-1.html
 http://www.sharewithu.com/thread-444371-1-1.html
 http://www.sharewithu.com/thread-430267-1-1.html
@@ -2644,6 +2678,7 @@ http://www.sharewithu.com/thread-506610-1-1.html
 http://www.sharewithu.com/thread-521903-1-1.html
 http://www.sharewithu.com/thread-513828-1-1.html
 http://www.sharewithu.com/thread-513427-1-1.html
+origins/职业规划.xls
 http://mp.weixin.qq.com/s?__biz=MzA5MjQ3MjQzMg==&mid=202676334&idx=2&sn=d49c4ec3712aba11c88810ab810ac2bf&scene=4#wechat_redirect）
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=200482230&idx=1&sn=a5ea02f40b628e02d283c85e56b2969e&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=200517273&idx=4&sn=c2e5512219c08bb8ae7930d48ffd8d0e&scene=4#wechat_redirect
@@ -2895,6 +2930,7 @@ http://chuansong.me/n/746622
 http://chuansong.me/n/758451
 http://chuansong.me/n/793665
 http://chuansong.me/n/910898
+origins/英文学习 完整版.xls
 http://mp.weixin.qq.com/s?__biz=MzA4NDIwMTgxMg==&mid=200020381&idx=1&sn=945545dd1ffa1f1b466560b928cfedc9&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA4NDIwMTgxMg==&mid=200027494&idx=1&sn=8bdc424190c2a8a4f212664fd0673bd9&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA4NDIwMTgxMg==&mid=200019643&idx=1&sn=413aac05dbd55c986b7a9ea28c25ca92&scene=4#wechat_redirect
@@ -3034,6 +3070,7 @@ http://mp.weixin.qq.com/s?__biz=MzA5OTU5NTgyNw==&mid=200438094&idx=3&sn=4a36f353
 http://mp.weixin.qq.com/s?__biz=MzA5OTU5NTgyNw==&mid=200444759&idx=4&sn=91c18b092019a02645a3621a6130fa04&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5OTU5NTgyNw==&mid=200472086&idx=3&sn=4dc176457fa00ed4d5739e301eaabdaf&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5OTU5NTgyNw==&mid=200267984&idx=1&sn=54d286f77e34eed74a3fc8bc49fa0540&scene=4#wechat_redirect
+origins/英文学习&标化考试准备.xls
 http://blog.sina.com.cn/s/blog_8bc0a4ff0101bo14.html
 http://blog.sina.com.cn/s/blog_631b93740100s98a.html
 http://blog.sina.com.cn/s/blog_8bc0a4ff0101d0gj.html
@@ -3152,6 +3189,7 @@ http://blog.sina.com.cn/s/blog_592381db0100nh7b.html
 http://blog.sina.com.cn/s/blog_5d9ecf59010192e7.html
 http://blog.sina.com.cn/s/blog_63198d3f0100osin.html
 http://blog.sina.com.cn/s/blog_64856c630100u6ah.html
+origins/英文学习.xls
 http://www.sharewithu.com/thread-722477-1-1.html
 http://www.sharewithu.com/thread-455633-1-1.html
 http://www.sharewithu.com/thread-517701-1-1.html
@@ -3170,6 +3208,7 @@ http://www.sharewithu.com/thread-523451-1-1.html
 http://www.sharewithu.com/thread-446387-1-1.html
 http://www.sharewithu.com/thread-511155-1-1.html
 http://www.sharewithu.com/thread-444512-1-1.html
+origins/表格申请材料 tag整理 .xls
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=201341243&idx=3&sn=58c73330533342434cc43558935aa296&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=202286714&idx=2&sn=d18ad353476ce41a286dfc5336766e99&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=201210230&idx=3&sn=7019bd183491d5ef2205bd228d668ea2&scene=4#wechat_redirect
@@ -3186,12 +3225,14 @@ http://mp.weixin.qq.com/s?__biz=MzA5MjQ3MjQzMg==&mid=206861018&idx=1&sn=f2433510
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=2653316773&idx=1&sn=132f24dbb6f273be764b67ba4a6c240c&scene=1&srcid=08045OhnkEcAwaUH4Lfm3G6U&pass_ticket=GpHkNvu1UOTxIrBTITISP3fNsq69ucT2sd17mS8aVBAIO8Xif%2BX1%2BTIPxB%2FNPeG5#rd
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=2653316488&idx=1&sn=8fa443e9fd4f3ef30be843690e1b25a3&scene=1&srcid=08043rrbQ9bdPTiNgVYvXJ5O&pass_ticket=GpHkNvu1UOTxIrBTITISP3fNsq69ucT2sd17mS8aVBAIO8Xif%2BX1%2BTIPxB%2FNPeG5#rd
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000187&itemidx=1&sign=3471f0c1618fc38602a4407104db0a65&scene=1&srcid=0810WSKEcLyuw7WD53rba8KO&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
+origins/表格申请材料 tag整理.xls
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=201210230&idx=3&sn=7019bd183491d5ef2205bd228d668ea2&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=201341243&idx=3&sn=58c73330533342434cc43558935aa296&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=201485025&idx=1&sn=0f97d277f153d859d7280235bf4fc425&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=202286714&idx=2&sn=d18ad353476ce41a286dfc5336766e99&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MjM5OTA5MzQzNQ==&mid=200725235&idx=2&sn=9002dd513c3d25b43674bb11307fb724&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA4MjE4MTAxOA==&mid=240773058&idx=2&sn=48518e39bc6a9ca27ba756d923043841&scene=4#wechat_redirect
+origins/表格申请材料.xls
 http://blog.sina.com.cn/s/blog_602c4b9301017u35.html
 http://blog.sina.com.cn/s/blog_6d5d49b90102v20p.html
 http://blog.sina.com.cn/s/blog_6d5d49b90102v20n.html
@@ -3201,6 +3242,7 @@ http://blog.sina.com.cn/s/blog_7a6b629f0102vbz5.html
 http://blog.sina.com.cn/s/blog_45f00ef401017ri4.html
 http://blog.sina.com.cn/s/blog_67afc6f80100nkzj.html
 http://blog.sina.com.cn/s/blog_686de9d90102e6du.html
+origins/转学(1).xls
 http://mp.weixin.qq.com/s?__biz=MzA3MzAxMjYxMg==&mid=200125911&idx=1&sn=20d36b060aca0265d0620786640a47b7&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA3MTA4MzUxOA==&mid=202262463&idx=2&sn=a94c5ec5a897b5cefea7856aa7b226ac&3rd=MzA3MDU4NTYzMw==&scene=6#rd
 http://mp.weixin.qq.com/s?__biz=MzA3MDM3MDYwMg==&mid=204694969&idx=2&sn=cd8952fb9c1fc0377e3d4473a2855769&3rd=MzA3MDU4NTYzMw==&scene=6#rd
@@ -3222,6 +3264,7 @@ http://mp.weixin.qq.com/s?__biz=MzA5MDAyOTU3OQ==&mid=202906919&idx=1&sn=824fda43
 http://mp.weixin.qq.com/s?__biz=MzA5MDAyOTU3OQ==&mid=203221383&idx=1&sn=56b5db3969df86ee0bd7083aa22a8296&scene=4#wechat_redirect
 http://mp.weixin.qq.com/s?__biz=MzA5MDAyOTU3OQ==&mid=203261423&idx=1&sn=46c6a1357af631f1f8db6582925c5b69&scene=4#wechat_redirect
 https://mp.weixin.qq.com/s?__biz=MjM5NzQ1OTQyMQ==&mid=200802801&idx=1&sn=e6af0b885de2a7ae098420236f0923ea&scene=1&srcid=080934ZHcXxuyJRz6dOilNbU&pass_ticket=N8dGJq1eKRp9GcoBvx86F0JKqrEZ7B0eFbtVFwwK6urPhZaWPXfCpwV0RflBI5zB#rd
+origins/转学.xls
 http://www.sharewithu.com/thread-454949-1-1.html
 https://www.cuus.info/forum.php?mod=viewthread&tid=111461&extra=page%3D1%26filter%3Ddigest%26digest%3D1
 https://www.cuus.info/forum.php?mod=viewthread&tid=87403&extra=page%3D1%26filter%3Ddigest%26digest%3D1
@@ -3245,6 +3288,7 @@ https://www.cuus.info/forum.php?mod=viewthread&tid=99689&extra=page%3D1%26filter
 https://www.cuus.info/forum.php?mod=viewthread&tid=109437&extra=page%3D1%26filter%3Ddigest%26digest%3D1
 https://www.cuus.info/forum.php?mod=viewthread&tid=68823&extra=page%3D1%26filter%3Ddigest%26digest%3D1
 https://www.cuus.info/forum.php?mod=viewthread&tid=104855&highlight=%E8%BD%AC%E5%AD%A6
+origins/选校 （新）.xls
 http://chuansong.me/n/1305403
 http://chuansong.me/n/1184424
 http://chuansong.me/n/1367658
@@ -3333,6 +3377,7 @@ https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000169
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000172&itemidx=1&sign=1f878d15e9170a2cb0d6aceb44246087&scene=1&srcid=0810N2uwWLXmXMtInOeWI65t&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzQ1OTQyMQ==&appmsgid=10000184&itemidx=1&sign=326e6d2e31d0a71e06393949f851e55a&scene=1&srcid=0810TDRFieY2aqj3G1tyXidp&pass_ticket=M29swE7laRPe23cq3b9zirBc%2BGO2x8ilxqK25icpfw5a3P%2FUp%2F9w5JXw%2F3h7hoiO
 https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fappmsg%2Fshow%3F__biz%3DMjM5NzQ1OTQyMQ%3D%3D%26appmsgid%3D10000056%26itemidx%3D1%26sign%3D8c3f4ca6d5426c536b47d8429ce3e885%26scene%3D1%26srcid%3D0810n5phjl4R7JckDicWunWp%23wechat_redirect&skey=%40crypt_87b00e98_f665fab74a7d429912df10036278137f&deviceid=e274457352235913&pass_ticket=undefined&opcode=2&scene=1&username=@6c0495c91500849e34a1204a181b494b47c19500c266edf462a30314db166497
+origins/选校.xls
 http://blog.sina.com.cn/s/blog_5231010001014b7t.html
 http://blog.sina.com.cn/s/blog_523101000102v5f8.html
 http://blog.sina.com.cn/s/blog_523101000101qmjw.html
@@ -3367,6 +3412,7 @@ http://blog.sina.com.cn/s/blog_7a6b629f0101meux.html
 http://blog.sina.com.cn/s/blog_7a6b629f01016g38.html
 http://blog.sina.com.cn/s/blog_7a6b629f0101me9f.html
 http://blog.sina.com.cn/s/blog_13787b4980102vulo.html
+origins/面试.xls
 http://blog.sina.com.cn/s/blog_5f7ac5e90100l62k.html
 http://blog.sina.com.cn/s/blog_523101000101g2ob.html
 http://blog.sina.com.cn/s/blog_508481ea0101jqym.html

@@ -13,7 +13,7 @@ from readability import Document
 from HTMLParser import HTMLParser
 # from progressbar import *
 from urllib2 import urlopen
-from tqdm import *
+from tqdm import tqdm
 
 reload(sys)  
 sys.setdefaultencoding('utf-8')  
@@ -104,12 +104,10 @@ def main():
 		totalURLs = sum(1 for line in open('Output.txt'))
 		# [feedtheURLs(l) for l in lines]
 		print "There is roughly a total of {} links".format(totalURLs)
-		with tqdm(unit='link',total=totalURLs) as pbar:
-			for l in lines:
-				if ("origins/" in l):
-					fileName = str(l)[7:-5]
-				feedtheURLs(l, fileName)
-				pbar.update(1)
+		for l in tqdm(lines, unit='link',total=totalURLs):
+			if ("origins/" in l):
+				fileName = str(l)[7:-5]
+			feedtheURLs(l, fileName)
 
 if __name__ == '__main__':
 	main()

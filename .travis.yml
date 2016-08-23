@@ -7,3 +7,6 @@ install:
 # command to run tests
 script:
   - python urlExtractor.py demo.xls
+
+notifications:
+  slack: stoooges-team:xrWuw1yjkLNpZqDtdqyade3E

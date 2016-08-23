@@ -1,16 +1,9 @@
 language: python
 python:
   - "2.7"
-  - "3.5"
 # command to install dependencies
 install:
-  - source ~/virtualenv/python2.7/bin/activate
   - pip install -r requirements.txt
-  - source ~/virtualenv/python3.5/bin/activate
-  - pip3 install -r requirements.txt
 # command to run tests
 script:
-  - source ~/virtualenv/python3.5/bin/activate
-  - python3 urlExtractor.py demo.xls
-  - source ~/virtualenv/python2.7/bin/activate
-  - python crawler.py
+  - python urlExtractor.py demo.xls

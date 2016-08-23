@@ -4,11 +4,12 @@
 # @Last Modified: 2016-08-23T03:10:38+08:00 1471893053
 # @Author  : Xingfan Xia (xiax@carleton.edu)
 # @Link    : http://xiax.tech
-# @Version : $4.0
+# @Version : $4.2
 
 # import modules
-import xlrd,sys,re,urlhelper,os,docx2txt,io
-
+import xlrd,sys,re,urlhelper,os,docx2txt,io, crawler
+reload(sys)
+sys.setdefaultencoding("utf8")
 # Read data from Excel Cells and check if it is an URL
 # If so, write it into the Output file
 def read_and_save(filename):
@@ -60,6 +61,6 @@ def main():
 	#         outfile.write(line)
 	#         lines_seen.add(line)
 	# outfile.close()
-
+	crawler.main()
 if __name__ == '__main__':
 	main()

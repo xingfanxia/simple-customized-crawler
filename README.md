@@ -16,7 +16,7 @@ A python script to extract URLs from files and then crawl the essential page inf
 ### How to Use
 
 ```bash
-$python3 urlExtractorFromXls.py * && python crawler.py
+$python urlExtractor.py *
 ```
 
 ### To-Dos
@@ -25,6 +25,7 @@ $python3 urlExtractorFromXls.py * && python crawler.py
 - [ ] Sina blog page inconsistence causing parsing failures
 - [x] Report error for page that no longer exist in Output
 - [x] Sina Chinese charset encoding issue
+- [x] Fully Updated to Pure Python 2.7 Version
 - [ ] URL request Error with `%`
 - [x] Rich input format parsing
     Now supports:

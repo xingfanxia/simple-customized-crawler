@@ -1,6 +1,6 @@
 # Simple Customized Crawler
 
-[![Build Status](https://travis-ci.org/xxf1995/simple-customized-crawler.svg?branch=master)](https://travis-ci.org/xxf1995/simple-customized-crawler)
+![Build Status](https://travis-ci.org/xxf1995/simple-customized-crawler.svg?branch=master)(https://travis-ci.org/xxf1995/simple-customized-crawler)
 
 A python script to extract URLs from files and then crawl the essential page info and article content of the URLs and export to txt files. Each output txt file corresponds to one input file.
 

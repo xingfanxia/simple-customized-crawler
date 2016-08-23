@@ -11,7 +11,8 @@ python:
 # command to install dependencies
 install: 
   - pip install -r requirements.txt
+  - pip3 install -r requirements.txt
 # command to run tests
 script:
-  - python3 urlExtractor.py *
+  - python3 urlExtractor.py demo.xls
   - python crawler.py

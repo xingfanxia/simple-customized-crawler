@@ -1,18 +1,16 @@
 language: python
 python:
-  - "2.6"
   - "2.7"
-  - "3.2"
-  - "3.3"
-  - "3.4"
   - "3.5"
-  - "3.5-dev" # 3.5 development branch
-  - "nightly" # currently points to 3.6-dev
 # command to install dependencies
-install: 
+install:
+  - source ~/virtualenv/python2.7/bin/activate
   - pip install -r requirements.txt
+  - source ~/virtualenv/python3.5/bin/activate
   - pip3 install -r requirements.txt
 # command to run tests
 script:
+  - source ~/virtualenv/python3.5/bin/activate
   - python3 urlExtractor.py demo.xls
+  - source ~/virtualenv/python2.7/bin/activate
   - python crawler.py

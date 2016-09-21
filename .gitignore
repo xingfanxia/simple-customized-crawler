@@ -2,3 +2,4 @@ __pycache__
 Crawler_Output
 origins
 *.pyc
+*.DS_STORE
